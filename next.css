@@ -155,3 +155,8 @@ html,body{
     border: 1px solid;
     box-shadow: -2px 2px 7px white;
 }
+h1{
+    position: absolute;
+    top: 35%;
+    left: 14%;
+}
